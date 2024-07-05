@@ -198,7 +198,7 @@ class MainActivity : ComponentActivity() {
                                 .fillMaxWidth()
                                 .padding(vertical = 20.dp)
                         ) {
-                            // First Text above Horizontal Divider
+                           
                             Text(
                                 text = "First Text",
                                 fontWeight = FontWeight.Bold,
@@ -208,7 +208,7 @@ class MainActivity : ComponentActivity() {
                                     .padding(bottom = 10.dp)
                             )
 
-                            // Horizontal Divider
+                         
                             Divider(
                                 color = Color.Gray,
                                 thickness = 2.dp,
@@ -217,7 +217,7 @@ class MainActivity : ComponentActivity() {
                                     .padding(vertical = 8.dp)
                             )
 
-                            // Second Text below Horizontal Divider
+                           
                             Text(
                                 text = "Second Text",
                                 fontWeight = FontWeight.Bold,

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1030791009414",
+    "project_id": "firedtbase",
+    "storage_bucket": "firedtbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1030791009414:android:981435513834b9d3586d07",
+        "android_client_info": {
+          "package_name": "com.example.database"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOu5yVHGST_mc07fTqY_-YPjBcJvm6hH0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
